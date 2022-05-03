@@ -1,7 +1,7 @@
 body {
   background-image: url("https://media.istockphoto.com/photos/long-and-wide-background-in-horizontal-position-egyptian-paperpapyrus-picture-id1128458566?b=1&k=6&m=1128458566&s=170667a&w=0&h=yZgtnq5k_ZGWmjW9i7yt212Mx7gcPgPLdcwrFEmRG3M=");
   background-repeat: repeat;
-  background-size: auto;
+  background-size: 150%;
   background-color: #cccccc
   font-family: Arial, Helvetica, sans-serif;
   color: navy
@@ -16,6 +16,9 @@ body {
   text-align: center;
 }
 
+ul {
+  list-style: circle inside;
+}
 td {
   border: 1px dotted black;
   padding-left: 10px;
