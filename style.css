@@ -2,9 +2,10 @@ body {
   background-image: url("https://media.istockphoto.com/photos/long-and-wide-background-in-horizontal-position-egyptian-paperpapyrus-picture-id1128458566?b=1&k=6&m=1128458566&s=170667a&w=0&h=yZgtnq5k_ZGWmjW9i7yt212Mx7gcPgPLdcwrFEmRG3M=");
   background-repeat: repeat;
   background-size: 150%;
-  background-color: #cccccc
+  background-color: #ccc;
   font-family: Arial, Helvetica, sans-serif;
   color: navy;
+  font-size: 150%;
 }
 
 .header {
@@ -18,8 +19,7 @@ body {
 
 ul {
    list-style-image: url("https://lh3.googleusercontent.com/RWDETj1lE4uTYUOAN9nWj2KAS0gvsFYTEx4y8ismH6_NPNkvetQ69Ar3e5Bv6bgbF68F4DjAa7LTLOe_WQhHq2KSU-aGoBqcbcaSwOYGkckTYqoEVWMcHx-ZTFjkChTMroqvBO4wig=w2400");
-   list-style-position: inside
-   font-size: 200%;
+   list-style-position: inside;
 }
 
 li {
